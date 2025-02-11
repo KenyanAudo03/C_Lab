@@ -1,3 +1,4 @@
-# VSCode 
 .vscode/
 printing_text
+*
+!*.c
